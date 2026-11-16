@@ -5,7 +5,7 @@ By **Misfitcompany K.I.R | D.O.M** · Discord **@misfitcompany** · X **@miseryf
 
 ## 📌 Update — November 16, 2026
 
-*Nothing from the original has been lost. The original leaflet (archived December 25, 2025) is kept permanently, word for word, in this repository's history: **[view the original leaflet](https://github.com/Misfitcompany/M-BER-RAFFLE-Details---Leaflet/blob/2cefcf776c44a25aa8e23542bf4172ff54e94f06/README.md)**. The original January 31, 2026 X announcement is still up as it was: **[view it on X](https://x.com/Den_of_Misfits/status/2017690848323092542)**.*
+*Nothing from the original has been lost. The original leaflet (archived December 25, 2025) is kept permanently, word for word, in its own repository: **[view the original leaflet](https://github.com/Misfitcompany/M-BER-RAFFLE-Details---Leaflet/blob/2cefcf776c44a25aa8e23542bf4172ff54e94f06/README.md)**. The original January 31, 2026 X announcement is still up as it was: **[view it on X](https://x.com/Den_of_Misfits/status/2017690848323092542)**. The updated November 16, 2026 X article: **[view it on X](https://x.com/Den_of_Misfits/status/2122444529043378277)**.*
 
 Since launch, the Den of Misfits has grown from a raffle and a Google Sheet into a live website with a public dashboard, two NFT collections, and season payouts to holders. Some details in the original have changed. This section lists them plainly.
 
@@ -50,7 +50,7 @@ Since launch, the Den of Misfits has grown from a raffle and a Google Sheet into
 - **Testnet Dev:** up to 720 (12%)
 - **Misfitcompany K.I.R | D.O.M:** 269 (4.48%)
 - **Qusino Project:** 100 (1.67%), to be distributed at E's own discretion
-- **Den of Misfits Treasury:** 50 (0.83%). These will pay for independent news and updates on Qubic ecosystem projects.
+- **Den of Misfits Treasury:** 50 (0.83%). These will earn from the Den's LP in a future season, and the Qubic they earn will pay for independent news and research reports on Qubic ecosystem projects.
 - **CFB / Qubicbay Project server giveaway:** 44 (0.73%). More may be added later.
 
 ### Where NFT sales revenue goes and how holders earn Qubic
@@ -70,7 +70,9 @@ The Den has **no token of its own, only these NFTs**. $QST is a third-party toke
 - M-BER on Qubicbay: https://qubicbay.io/collections/13
 - M-BUN on Qubicbay: https://qubicbay.io/collections/11
 - Den of Misfits Treasury wallet: SLYTYGKEPHQKZCIQHPRZXNXTFWLDPTVPEXRDZQQUCCGXZLGTFTRTWSCELEKG
+- Updated X article (November 16, 2026): https://x.com/Den_of_Misfits/status/2122444529043378277
 - Original X announcement (January 31, 2026): https://x.com/Den_of_Misfits/status/2017690848323092542
+- Original leaflet (December 25, 2025): https://github.com/Misfitcompany/M-BER-RAFFLE-Details---Leaflet
 
 ### ⚠️ Safety
 
